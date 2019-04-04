@@ -2,7 +2,7 @@ function add(a,b){
   return a + b
 }
 
-const subtract = function (a,b){
+function subtract (a,b){
   return b - a
 }
 
